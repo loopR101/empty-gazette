@@ -1,7 +1,6 @@
 module.exports = {
     siteMetadata: {
-      title: `Gatsby Project`,
-        siteUrl: `https://www.yourdomain.tld`,
+      title: `CreateTTYRequest.getACL[all)`,
     },
     plugins: [
 
